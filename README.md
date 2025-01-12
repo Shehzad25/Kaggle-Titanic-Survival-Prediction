@@ -61,7 +61,7 @@ ________________________________________
 ________________________________________
 📌 How to Run
 1.	Clone this repository: 
-2.	git clone https://github.com/your-username/titanic-survival-prediction.git
+2.	git clone https://github.com/Shehzad25/titanic-survival-prediction.git
 3.	Install dependencies: 
 4.	pip install -r requirements.txt
 5.	Run the Jupyter Notebook: 
